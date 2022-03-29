@@ -29,10 +29,10 @@ author:
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/yousujung
+    github:    'https://github.com/yousujung'
     # facebook:  <hide>
     #twitter:   https://twitter.com/Li_Zhihao
-    email:     mailto:dbtnwjd79@gmail.com
+    email:     'mailto:dbtnwjd79@gmail.com'
 
 # Navigation (2nd level links supported)
 nav:
