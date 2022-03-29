@@ -4,7 +4,7 @@ tagline: Quartzz Blog'
 description: ''
 baseurl: ""
 url: 'http://yousujung.github.io'
-logo: '/public/logo.png'
+logo: '\public\icons8-chick-60.png'
 
 # Site configurations
 gems:
