@@ -23,9 +23,9 @@ permalink: pretty
 version: 1.0.0
 
 # About/contact
-author:
+author: 데이터 상식 뭉치기
   name: SujungYou
-  description: 프로그래밍 공부를 기록하는 공간s2
+  description: 
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
